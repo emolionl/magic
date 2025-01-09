@@ -12,3 +12,7 @@
 * [Chapter 6: Results and Analysis](experiment/chapter_6_results_and_analysis.md)
 * [Chapter 7: Conclusion and Future Work](experiment/chapter_6_results_and_analysis-1.md)
 * [Chapter 8: Appendix](experiment/chapter_6_results_and_analysis-2.md)
+
+***
+
+* [Contact Me](contact-me.md)
