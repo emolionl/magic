@@ -2,7 +2,7 @@
 description: Supervised or Unsupervised Learning?
 ---
 
-# how to solve TRNG problem with ML
+# How to solve TRNG (without EEG) problem with ML
 
 #### **Supervised Learning**
 
