@@ -1,5 +1,5 @@
 ---
-icon: pen-to-square
+icon: binary-circle-check
 ---
 
 # Chapter 3: Data Collection

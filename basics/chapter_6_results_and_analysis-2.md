@@ -1,16 +1,8 @@
 ---
-icon: pen-to-square
+icon: books
 ---
 
 # Chapter 8: Appendix
-
-
-
-***
-
-***
-
-### Chapter 8: Appendix
 
 #### 8.1 Code Repositories
 

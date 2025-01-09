@@ -1,5 +1,5 @@
 ---
-icon: pen-to-square
+icon: torii-gate
 ---
 
 # Chapter 1: Introduction

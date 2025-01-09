@@ -1,5 +1,5 @@
 ---
-icon: markdown
+icon: flask
 ---
 
 # Chapter 2: Experimental Setup

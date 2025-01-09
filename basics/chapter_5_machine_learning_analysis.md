@@ -1,10 +1,8 @@
 ---
-icon: pen-to-square
+icon: brain-circuit
 ---
 
 # Chapter 5: Machine Learning Analysis
-
-####
 
 #### 5.1 Feature Extraction
 

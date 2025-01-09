@@ -1,14 +1,8 @@
 ---
-icon: pen-to-square
+icon: square-poll-vertical
 ---
 
 # Chapter 6: Results and Analysis
-
-
-
-***
-
-### Chapter 6: Results and Analysis
 
 #### 6.1 Statistical Analysis
 

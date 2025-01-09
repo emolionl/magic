@@ -1,16 +1,10 @@
 ---
-icon: pen-to-square
+icon: arrows-to-circle
 ---
 
 # Chapter 7: Conclusion and Future Work
 
 
-
-***
-
-***
-
-### Chapter 7: Conclusion and Future Work
 
 #### 7.1 Summary of Findings
 
