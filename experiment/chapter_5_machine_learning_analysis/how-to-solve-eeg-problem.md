@@ -6,4 +6,6 @@ good tutorial: [https://www.youtube.com/watch?v=B8kILqgbxoc](https://www.youtube
 
 {% embed url="https://raphaelvallat.com/bandpower.html" %}
 
-[https://github.com/JGalego/eeg-bci-tutorial/blob/master/eeg\_bci.ipynb](https://github.com/JGalego/eeg-bci-tutorial/blob/master/eeg_bci.ipynb)
+{% embed url="https://github.com/JGalego/eeg-bci-tutorial/blob/master/eeg_bci.ipynb" %}
+
+introduction to eeg [https://www.udemy.com/course/electroencephalography/learn/lecture/20555576#overview](https://www.udemy.com/course/electroencephalography/learn/lecture/20555576#overview)
