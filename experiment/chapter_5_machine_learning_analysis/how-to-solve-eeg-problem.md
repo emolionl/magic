@@ -9,3 +9,7 @@ good tutorial: [https://www.youtube.com/watch?v=B8kILqgbxoc](https://www.youtube
 {% embed url="https://github.com/JGalego/eeg-bci-tutorial/blob/master/eeg_bci.ipynb" %}
 
 introduction to eeg [https://www.udemy.com/course/electroencephalography/learn/lecture/20555576#overview](https://www.udemy.com/course/electroencephalography/learn/lecture/20555576#overview)
+
+
+
+[https://www.youtube.com/watch?v=\_BdBJOOqMes\&list=PLtGXgNsNHqPTgP9wyR8pmy2EuM2ZGHU5Z](https://www.youtube.com/watch?v=_BdBJOOqMes\&list=PLtGXgNsNHqPTgP9wyR8pmy2EuM2ZGHU5Z) ML en EEG
