@@ -13,3 +13,9 @@ introduction to eeg [https://www.udemy.com/course/electroencephalography/learn/l
 
 
 [https://www.youtube.com/watch?v=\_BdBJOOqMes\&list=PLtGXgNsNHqPTgP9wyR8pmy2EuM2ZGHU5Z](https://www.youtube.com/watch?v=_BdBJOOqMes\&list=PLtGXgNsNHqPTgP9wyR8pmy2EuM2ZGHU5Z) ML en EEG
+
+
+
+
+
+fromm iu: [https://github.com/iubh/DLMDSML01/tree/main/Q\_A\_Sessions/01\_intro\_to\_ml](https://github.com/iubh/DLMDSML01/tree/main/Q_A_Sessions/01_intro_to_ml)
